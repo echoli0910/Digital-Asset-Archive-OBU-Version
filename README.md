@@ -1,4 +1,4 @@
-# Digital-Asset-Archive-OBU-Version
+# Digital-Asset-Archive-OBU-Version(Oxford Brookes University)
 This repository contains all the course notes, assignments, course papers and case studies I completed during my four-year undergraduate accounting program at Oxford Brookes University (OBU), serving as a digital asset archive for my personal academic learning.
 
 # All the contents are merely compiled by me for personal study. They are provided for learning, communication and reference purposes only! 
