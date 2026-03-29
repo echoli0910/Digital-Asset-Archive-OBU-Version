@@ -7,7 +7,7 @@ This repository contains all the course notes, assignments, course papers and ca
 All content reflects my original independent work for personal study and academic exchange. Notes may be based on OBU course outlines, textbooks and lecture materials, but they do not represent the official views of Oxford Brookes University and are not officially authorised for publication.
 
 # 2. Commercial and improper use are strictly prohibited
-This repository is strictly for non-commercial, non-profit personal learning use. Any copying, distribution, modification, resale, plagiarism, or unauthorised use for assessed coursework submission or academic publication that violates academic integrity is prohibited.
+This repository is strictly for non-commercial, non-profit personal learning use. Any copying, distribution, modification, resale, plagiarism, or unauthorised use for assessed coursework submission or academic publication that violates academic integrity is prohibited. 
 
 # 3. Limitation of Liability and Disclaimer
 I make no express or implied warranties regarding the accuracy, completeness or timeliness of the content. I shall not be held legally responsible for any direct, indirect, incidental or consequential damages, including academic penalties, legal disputes or financial losses arising from the use of these materials.
